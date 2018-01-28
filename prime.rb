@@ -1,9 +1,6 @@
 require 'benchmark'
 
-<<<<<<< HEAD
-# benchmark time = 0.000000   0.000000   0.000000 (  0.000004)
-=======
->>>>>>> add6556b8299dd9ce207675c1fda4033cbc5d8aa
+
 def prime?(number)
   return false if number <= 1
 
@@ -19,10 +16,9 @@ def prime?(number)
 end
 
 
-<<<<<<< HEAD
+
 # benchmark time = 0.000000   0.000000   0.000000 (  0.000017)
-=======
->>>>>>> add6556b8299dd9ce207675c1fda4033cbc5d8aa
+
 # def prime?(number)
 #   return false if number <= 1
 #   # return true if number / 2 == 1
