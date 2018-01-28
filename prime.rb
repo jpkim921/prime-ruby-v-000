@@ -22,7 +22,7 @@ end
 # def prime?(number)
 #   return false if number <= 1
 #   # return true if number / 2 == 1
-# 
+#
 #   !(2..number/2).any? {|x| number % x == 0}
 # end
 
